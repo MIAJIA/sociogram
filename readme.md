@@ -1,5 +1,5 @@
 # Sociogram #
-learn this with
+learn this with https://www.youtube.com/watch?v=2cAvFo2-WMA&index=20&list=PLJEjrTIAKlQLx3JvSHmlF76nVkrqyThKM
 
 Sociogram is a Sample Application to Explore the Facebook SDK and the Graph API.
 
